@@ -1,2 +1,2 @@
 # seleniumplayground
-Selenium scirpt automate QA Playground (https://qaplayground.dev/#apps) Mini Web Apps
+Selenium scirpt for automation QA Playground (https://qaplayground.dev/#apps) Mini Web Apps
